@@ -4,7 +4,7 @@
 ## How to use
 Paste this in your executor:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOURUSERNAME/piggy-morph-hub/main/PiggyMorphsHub_Combined.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GreenicScripts/piggy-morph-hub/refs/heads/main/PiggyMorphsHubOP.lua"))()
 ```
 
 ## Features
